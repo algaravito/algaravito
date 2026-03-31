@@ -1,4 +1,4 @@
-👋 Hola, Leticia, 
+👋 #Hola, Leticia, 
 
 🎯 Analista de Datos apasionado por transformar datos en insights accionables y apoyar la toma de decisiones basada en evidencia.
 

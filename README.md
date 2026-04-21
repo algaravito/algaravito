@@ -67,10 +67,10 @@ _(Agrega enlaces a los repositorios cuando los tengas)_
 
 ---
 
-## 📫 Contacto
+## 📫 Contacto: 3058660368
 
-- 💼 LinkedIn: ___  
-- ✉️ Email: ___  
+- 💼 LinkedIn: __ https://www.linkedin.com/in/alba-garavito/
+- ✉️ Email: __ letyblado11@gmail.com
 - 🌐 Portafolio (si aplica): ___  
 
 ---
